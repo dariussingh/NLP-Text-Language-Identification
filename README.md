@@ -44,3 +44,6 @@ We use a dataset that contains 22 selective languages from the original dataset 
 - Dutch
 - Japanese
 - Thai
+
+## Audio Language Identification Model
+[NLP-Audio-Language-Identification](https://github.com/dariussingh/NLP-Audio-Language-Identification)
