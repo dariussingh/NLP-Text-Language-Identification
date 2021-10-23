@@ -1,7 +1,7 @@
 # Natural Language Processing For Text Language Identification
 
 ## Summary
-In this project, we create Artificial Neural Network (ANN) that takes in text as input and identify the language the input is in.
+In this project, we create an Artificial Neural Network (ANN) that takes in text as input and identifies the language the input is in.
 We implement this using Python and its various open-source libraries that allow us to preprocess our data, create the model, train the model, test the model and deploy the model.
 
 [Project Report](https://drive.google.com/file/d/1Z9MHXGBn1CNUe3s35JjedjUo6VF0pccy/view?usp=sharing)
