@@ -4,7 +4,7 @@
 In this project, we create an Artificial Neural Network (ANN) that takes in text as input and identifies the language the input is in.
 We implement this using Python and its various open-source libraries that allow us to preprocess our data, create the model, train the model, test the model and deploy the model.
 
-[Project Report](../doc/NLP for Language Identification Report [Darius Singh (1720130)].pdf)
+[Project Report](https://github.com/dariussingh/NLP-Text-Language-Identification/blob/main/doc/NLP%20for%20Language%20Identification%20Report%20%5BDarius%20Singh%20(1720130)%5D.pdf)
 
 ## Introduction
 Natural language refers to how humans communicate with one another. Namely, speech and text. The task of identifying natural language appears frequently in web applications. 
